@@ -1,2 +1,2 @@
-# software-quality
+# Software Quality
 Metrics in Software Quality
